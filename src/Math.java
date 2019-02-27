@@ -8,7 +8,7 @@ public class Math {
         System.out.println(stdev(arra));
 
     }
-
+//bjsbisubfsbfjskfbks
 
     }
     public static int sum(int[] arr){
